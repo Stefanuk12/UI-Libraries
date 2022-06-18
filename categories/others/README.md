@@ -48,4 +48,5 @@ Press on the names for more information.
 
 ## [uwuware (Jan)](https://v3rmillion.net/showthread.php?tid=1023792)
 I know this one uses the same image as wally's. I'm not bothered to get a preview if they look very similar.
+
 ![](../../images/uwuware-wally.png)
