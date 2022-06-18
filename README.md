@@ -23,7 +23,7 @@ Many people wonder which UI Library they should use for their project or maybe f
 
 ## Creators
 - [AbstractPoo](creators/abstractpoo.md)
-- [Dawid](creators/dawid.md)
+- [dawid](creators/dawid.md)
 - [Denosaur](creators/denosaur.md)
 - [Enxquity](creators/enxquity.md)
 - [hangtightmc](creators/hangtightmc.md)
