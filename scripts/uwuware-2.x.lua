@@ -1,3 +1,5 @@
+-- source: https://v3rmillion.net/showthread.php?tid=1164653
+
 --LIBRARY START
 	--Services
 	getgenv().runService = game:GetService"RunService"
