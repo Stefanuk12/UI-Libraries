@@ -5,6 +5,7 @@ Many people wonder which UI Library they should use for their project or maybe f
 - [CS-GO Based](categories/csgo-based)
   - [Linoria Rewrite](categories/csgo-based/README.md#linoria-rewrite)
   - [Pepsi's](categories/csgo-based/README.md#pepsis)
+  - [uwuware 2.x](categories/csgo-based/README.md#uwuware-2.x)
 - [Others](categories/others)
   - [Orion](categories/others/README.md#orion)
   - [Material UI](categories/others/README.md#material-ui)
@@ -22,8 +23,7 @@ Many people wonder which UI Library they should use for their project or maybe f
   - [vape](categories/others/README.md#vape)
   - [uwuware (wally)](categories/others/README.md#uwuware-wally)
   - [uwuware (Jan)](categories/others/README.md#uwuware-jan)
-  - [uwuware 2.x](categories/csgo-based/README.md#uwuware-2.x)
-
+- 
 ## Creators
 - [AbstractPoo](creators/abstractpoo.md)
 - [dawid](creators/dawid.md)
