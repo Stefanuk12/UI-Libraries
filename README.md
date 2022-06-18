@@ -19,6 +19,7 @@ Many people wonder which UI Library they should use for their project or maybe f
   - [Xenon](categories/others/README.md#xenon)
   - [Slixx's](categories/others/README.md#slixxs)
   - [robloxscripts](categories/others/README.md#robloxscripts)
+  - [vape](categories/others/README.md#vape)
 
 ## Creators
 - [AbstractPoo](creators/abstractpoo.md)

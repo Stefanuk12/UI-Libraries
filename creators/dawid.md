@@ -4,3 +4,4 @@
 ## UI Libraries
 - [Solaris](../categories/others/README.md#solaris)
 - [Flux](../categories/others/README.md#flux)
+- [vape](../categories/others/README.md#vape)
