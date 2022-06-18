@@ -20,6 +20,8 @@ Many people wonder which UI Library they should use for their project or maybe f
   - [Slixx's](categories/others/README.md#slixxs)
   - [robloxscripts](categories/others/README.md#robloxscripts)
   - [vape](categories/others/README.md#vape)
+  - [uwuware (wally)](categories/others/README.md#uwuware-wally)
+  - [uwuware (Jan)](categories/others/README.md#uwuware-jan)
 
 ## Creators
 - [AbstractPoo](creators/abstractpoo.md)
@@ -28,9 +30,11 @@ Many people wonder which UI Library they should use for their project or maybe f
 - [Enxquity](creators/enxquity.md)
 - [hangtightmc](creators/hangtightmc.md)
 - [Inori](creators/inori.md)
+- [Jan](creators/jan.md)
 - [salfin321](creators/salfin321.md)
 - [shlex](creators/shlex.md)
 - [slixx](creators/slixx.md)
 - [ThisIsPepsi](creators/thisispepsi.md)
 - [twink marie](creators/twinkmarie.md)
+- [wally](creators/wally.md)
 - [xHeptc](creators/xheptc.md)
