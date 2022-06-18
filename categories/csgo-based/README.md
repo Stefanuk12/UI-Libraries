@@ -6,3 +6,8 @@ Press on the names for more information.
 
 ## [Pepsi's](https://v3rmillion.net/showthread.php?tid=1139856)
 ![](../../images/pepsi's.png)
+
+## [uwuware 2.x](../../scripts/uwuware-2.x.lua)
+Sorry for bad image quality, got the preview from selling thread.
+
+![](../../images/uwuware-2.x.png)

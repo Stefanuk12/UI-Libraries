@@ -3,3 +3,4 @@
 
 ## UI Libraries
 - [uwuware](../categories/others/README.md#uwuware-jan)
+- [uwuware 2.x](../categories/csgo-based/README.md#uwuware-2.x)
