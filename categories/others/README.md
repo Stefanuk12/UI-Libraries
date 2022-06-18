@@ -1,5 +1,5 @@
 # Other UI Libraries
-Press on the names for more information.
+Press on the names for more information. Sorry for any bad image qualities, I likely got the preview from a video or showcase of some sort.
 
 ## [Orion](https://v3rmillion.net/showthread.php?tid=1166983)
 ![](../../images/orion.png)

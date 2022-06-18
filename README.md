@@ -23,7 +23,7 @@ Many people wonder which UI Library they should use for their project or maybe f
   - [vape](categories/others/README.md#vape)
   - [uwuware (wally)](categories/others/README.md#uwuware-wally)
   - [uwuware (Jan)](categories/others/README.md#uwuware-jan)
-- 
+
 ## Creators
 - [AbstractPoo](creators/abstractpoo.md)
 - [dawid](creators/dawid.md)
